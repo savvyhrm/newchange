@@ -1,3 +1,3 @@
-$(document).redy(function() {
-  alert('mainmaster.js')
+$(document).ready(function() {
+    alert('mainmaster.js');
 });
