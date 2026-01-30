@@ -1,0 +1,2 @@
+$(document).redy(function() {
+});
