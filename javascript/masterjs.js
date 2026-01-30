@@ -1,4 +1,5 @@
-$(document).redy(function() {
+$(document).ready(function() {
     alert('hello');
 
 });
+
